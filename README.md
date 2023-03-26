@@ -20,3 +20,7 @@ Siemens TIA Portal project for a CPU 1516-3 PN/DP (S7-1500). Speed preselection,
 - AQ 4xU/I ST (analog outputs)
 
 Full project export (109 pages) in `docs/Projekt-Export.pdf`.
+
+## Screenshot
+
+![TIA Portal project](docs/Image.jpg)
